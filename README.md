@@ -1,3 +1,5 @@
+> **이 저장소는 보관(archive)되었습니다.** 빈 자리표시이거나 더 이상 쓰지 않습니다.
+
 # 🔥 fire-your-seo-agency
 
 [한국어](./README.ko.md) · **English**
